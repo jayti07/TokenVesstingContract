@@ -1,7 +1,0 @@
-[network]
-name = "testnet"
-stacks_node_rpc_address = "https://api.testnet.hiro.so"
-deployment_fee_rate = 10
-
-[accounts.deployer]
-mnemonic = "turn afraid dish wide identify often wish control mutual pumpkin sentence pool ketchup nephew offer lady rather length dragon execute danger tone industry garbage"
