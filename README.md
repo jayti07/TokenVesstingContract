@@ -81,5 +81,6 @@ For detailed usage examples and integration guides, please refer to the project 
 ### Contract Details
 Contract Address:
 ST2N9BEA76DXY20093B2W32C2NVJGHPX7AZAMZP4E.VestingTokenContract
+
 Screenshot:
 <img width="1905" height="857" alt="Screenshot 2025-08-22 115344" src="https://github.com/user-attachments/assets/f4a38349-f3fc-4905-9094-752b303d501d" />
